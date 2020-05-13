@@ -1,0 +1,9 @@
+
+CAN1接收中断： 接收系统状态标志位
+CAN2接收中断： 获取四个底盘电机的编码器信息(步兵是在主控的CAN1中断里面执行此步骤)
+
+4个线程任务：
+Control_Thread1： 控制底盘
+Rotate_Thread1
+Detection_Thread1
+Task_CANSend

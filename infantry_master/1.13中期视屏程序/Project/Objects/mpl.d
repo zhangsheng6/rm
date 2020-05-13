@@ -1,0 +1,16 @@
+.\objects\mpl.o: ..\IMU_DMP\MPL\mllite\mpl.c
+.\objects\mpl.o: ..\IMU_DMP\MPL\mllite\storage_manager.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\driver\include\mltypes.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\driver\include\stdint_invensense.h
+.\objects\mpl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mpl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+.\objects\mpl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\driver\include\log.h
+.\objects\mpl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mpl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\mllite\mpl.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\mllite\start_manager.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\mllite\data_builder.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\mllite\results_holder.h
+.\objects\mpl.o: ..\IMU_DMP\MPL\driver\include\mlinclude.h
